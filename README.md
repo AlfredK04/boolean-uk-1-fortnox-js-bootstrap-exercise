@@ -3,7 +3,7 @@
 ## How-to
 To run this project *fork*/*clone* project and issue following command
 ```sh
-npm ci # [!note] install dependencies into `node_modules` folder
+npm i # [!note] install dependencies into `node_modules` folder
 ```
 
 ### SASS
